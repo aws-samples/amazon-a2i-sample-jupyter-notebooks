@@ -1,13 +1,9 @@
-## My Project
+## Amazon Augmented AI Sample Notebooks
 
-TODO: Fill this README out!
+This repository contains sample Jupyter notebooks for [Amazon Augmented AI (A2I)](https://aws.amazon.com/augmented-ai/).
 
-Be sure to:
+Amazon Augmented AI (Amazon A2I) makes it easy to build the workflows required for human review of ML predictions. Amazon A2I brings human review to all developers, removing the undifferentiated heavy lifting associated with building human review systems or managing large numbers of human reviewers.
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## License Summary
 
-## License
-
-This project is licensed under the Apache-2.0 License.
-
+This sample code is made available under the MIT-0 license. See the LICENSE file.
