@@ -4,7 +4,7 @@ This repository contains sample Jupyter notebooks for [Amazon Augmented AI (A2I)
 
 Amazon Augmented AI (Amazon A2I) makes it easy to build the workflows required for human review of ML predictions. Amazon A2I brings human review to all developers, removing the undifferentiated heavy lifting associated with building human review systems or managing large numbers of human reviewers.
 
-Check out our more than 70 pre built UIs, here: https://github.com/aws-samples/amazon-a2i-sample-task-uis
+Check out our more than 70 prebuilt UIs, here: https://github.com/aws-samples/amazon-a2i-sample-task-uis
 
 ## License Summary
 
