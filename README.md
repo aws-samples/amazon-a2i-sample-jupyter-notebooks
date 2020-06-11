@@ -14,7 +14,7 @@ Check out our more than 70 prebuilt UIs, here: https://github.com/aws-samples/am
 
 [Amazon Augmented AI (A2I) and Amazon Rekognition DetectModerationLabels](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20Augmented%20AI%20(A2I)%20and%20Rekognition%20DetectModerationLabels.ipynb)
 
-[Amazon Augmented AI (A2I) and Amazon SageMaker Endpoint](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20Augmented%20AI%20(A2I)%20and%20SageMaker%20Endpoint.ipynb)
+[Amazon A2I with Amazon SageMaker for object detection and model retraining](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20A2I%20with%20Amazon%20SageMaker%20for%20object%20detection%20and%20model%20retraining.ipynb)
 
 [Amazon Augmented AI (A2I) and Amazon Textract AnalyzeDocument](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20Augmented%20AI%20(A2I)%20and%20Textract%20AnalyzeDocument.ipynb)
 
