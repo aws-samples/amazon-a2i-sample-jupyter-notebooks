@@ -8,6 +8,8 @@ Check out our more than 70 prebuilt UIs, here: https://github.com/aws-samples/am
 
 ## Available Notebooks
 
+[Use Amazon Augmented AI (A2I) with Amazon Transcribe Custom Vocabularies to Improve Video Transcriptions](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/A2I-Video-Transcription-with-Amazon-Transcribe.ipynb)
+
 [Amazon Augmented AI (A2I) and Amazon Translate](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20Augmented%20AI%20(A2I)%20and%20Amazon%20Translate.ipynb)
 
 [Amazon Augmented AI (A2I) and Amazon Comprehend DetectSentiment](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20Augmented%20AI%20(A2I)%20and%20Comprehend%20DetectSentiment.ipynb)
