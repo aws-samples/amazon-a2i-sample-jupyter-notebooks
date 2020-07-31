@@ -14,7 +14,7 @@ Check out our more than 70 prebuilt UIs, here: https://github.com/aws-samples/am
 
 [Amazon Augmented AI (A2I) and Amazon Comprehend DetectSentiment](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20Augmented%20AI%20(A2I)%20and%20Comprehend%20DetectSentiment.ipynb)
 
-[Amazon A2I with Amazon SageMaker Model Monitor](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20A2I%20with%20Amazon%20SageMaker%20Model%20Monitor.ipynb)
+[Amazon A2I with Amazon SageMaker Model Monitor](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon-A2I-with-Amazon-SageMaker-Model-Monitor.ipynb)
 
 [Amazon Augmented AI (A2I) and Amazon Rekognition DetectModerationLabels](https://github.com/aws-samples/amazon-a2i-sample-jupyter-notebooks/blob/master/Amazon%20Augmented%20AI%20(A2I)%20and%20Rekognition%20DetectModerationLabels.ipynb)
 
